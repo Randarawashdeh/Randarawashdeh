@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
  I’m a full-stack developer. I have a strong command over front-end and back-end technologies, allowing me to build complete and scalable applications.
-On the front-end side, I specialize in HTML, CSS, bootstrap, and JavaScript frameworks such as React. I’m passionate about creating intuitive user interfaces that provide an exceptional user experience. I pay great attention to detail, ensuring that the websites or applications I develop are responsive, visually appealing, and accessible across different devices and browsers.
+On the front-end side, I specialize in HTML, CSS, and JavaScript frameworks such as React. I’m passionate about creating intuitive user interfaces that provide an exceptional user experience. I pay great attention to detail, ensuring that the websites or applications I develop are responsive, visually appealing, and accessible across different devices and browsers.
 
 ### Skills Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
